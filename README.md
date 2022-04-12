@@ -1,16 +1,16 @@
-# dicee_app
+# Dicee App
 
-A new Flutter project.
+Dice for your board game
 
-## Getting Started
+## Simple interactive application
 
-This project is a starting point for a Flutter application.
+The app shows two dice randomly when you tap on the screen
+Demonstrates simple interactive functions
 
-A few resources to get you started if this is your first Flutter project:
+Приложение показывает две игральные кости в случайном порядке при нажатии на экран
+Демонстрирует простые интерактивные функции
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+!(/images/Screen.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Created by Ivan Alekseev based on Udemy Flutter Bootcamp 2021
+
